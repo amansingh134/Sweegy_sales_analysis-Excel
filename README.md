@@ -8,6 +8,8 @@ This project presents an interactive **Swiggy Sales Analysis Dashboard** built u
 
 The objective of this project is to transform raw sales data into meaningful business insights using data analysis, visualization, and interactive dashboard reporting.
 
+> **Note:** The dataset used in this project was collected from publicly available external/other resources and is used solely for data analysis and portfolio purposes.
+
 ---
 
 ## 🎯 Project Objectives
@@ -86,27 +88,6 @@ https://github.com/amansingh134/Sweegy_sales_analysis-Excel/blob/main/Swiggy%20D
 - Data Analysis
 - Dashboard Design
 - Data Visualization
-
----
-
-## 📂 Dataset Columns
-
-The dataset contains the following key columns:
-
-- State
-- City
-- Order Date
-- Day
-- Quarter
-- Week
-- Restaurant Name
-- Location
-- Category
-- Dish Name
-- Food Type
-- Price (INR)
-- Rating
-- Rating Count
 
 ---
 
